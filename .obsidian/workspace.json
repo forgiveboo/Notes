@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3234ef1218609ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公务员考试/省考备考计划/第一周 1.13-1.20号.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公务员考试/公务员考试基础/公务员考试的类别和之间的区别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公务员考试/公务员考试基础/公务员考试的类别和之间的区别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "公务员考试/公务员考试基础/公务员考试的类别和之间的区别.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ad21ee72f4a506a",
+  "active": "f72aae1cde4c771b",
   "lastOpenFiles": [
-    "公务员考试/省考备考计划.md",
+    "公务员考试/省考备考计划/第二周 1.28-1.31号.md",
+    "公务员考试/省考备考计划/第一周 1.13-1.20号.md",
     "公务员考试/公务员考试基础/公务员考试的类别和之间的区别.md",
+    "公务员考试/省考备考计划.md",
     "2023-01-11.md"
   ]
 }
