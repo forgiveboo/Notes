@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "公务员考试/省考备考计划/第一周 1.13-1.20号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "公务员考试/省考备考计划/第一周 1.13-1.20号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "公务员考试/省考备考计划/第一周 1.13-1.20号.md"
+              }
             }
           },
           {
@@ -159,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +175,43 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
+  },
+  "floating": {
+    "id": "b2d786ce2b13b617",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5e18ef847ce3f8a9",
+        "type": "window",
+        "children": [
+          {
+            "id": "87576a7077dacf6f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc0c1f85df3eb92d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "公务员考试/省考备考计划/第一周 1.13-1.20号.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 12,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "f72aae1cde4c771b",
   "lastOpenFiles": [
